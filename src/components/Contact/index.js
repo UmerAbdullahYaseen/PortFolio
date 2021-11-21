@@ -47,7 +47,7 @@ function Contact() {
 			setError('Message is required');
 			return;
 		}
-		const msg = 'Thank you for your message, ' + name + '! I will get back to you as soon as possible. Please make sure leave me a message on Linkedin and my Email ';
+		const msg = 'Thank you for your message, ' + name + '! I will get back to you as soon as possible. Please make sure leave me a message on Linkedin or Email ';
 		setWelcomeMessage(msg);
 
 		setName('');

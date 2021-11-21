@@ -48,7 +48,7 @@ const skillTypes = [
 				</Row>
 				<Row>
 					<Col className="text-center mb-3">
-						<Button href="https://drive.google.com/file/d/19I-Na5uxbaYN-DFp8RKrfW6quusm6wj7/view?usp=sharing">Download My Resume</Button>
+						<Button href="https://drive.google.com/file/d/1Q8KYMcVSvoe9v7xZPbkjJGs491eRi44R/view?usp=sharing">Download My Resume</Button>
 					</Col>
 				</Row>
 				<Row>
